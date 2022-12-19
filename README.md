@@ -1,1 +1,1 @@
-# stock_market_gui_database
+Created a simple python application to buy/sell stocks using TKinter
